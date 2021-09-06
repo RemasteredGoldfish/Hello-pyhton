@@ -1,0 +1,4 @@
+Ik vind het best cool hoe ze robots met python aan het maken zijn.
+Het inspireert mij want ik wil ook zo projecten maken en dan uitvoeren.
+
+https://robotframework.org/
